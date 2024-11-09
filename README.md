@@ -17,7 +17,7 @@
   - **多语言字幕：** 根据你选择的语言，AI会自动生成对应语言的字幕，让你的视频无障碍传播！
   - **多国语音：**选择你想要的语音，AI会自动生成对应语言的配音，让你的视频更加生动自然！
 
-[视频链接](https://scy.zuocheng.online/video/video_creation/608098982494341/final_video_file/608099000594565.mp4)
+[![Watch the video](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://scy.zuocheng.online/video/video_creation/608098982494341/final_video_file/608099000594565.mp4)
 
 **视频翻译功能**：轻松实现多语言字幕和配音！操作简单，一键翻译
 

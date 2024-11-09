@@ -19,6 +19,8 @@
 
 [![Watch the video](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://scy.zuocheng.online/video/video_creation/608098982494341/final_video_file/608099000594565.mp4)
 
+[访问不了请点击这里查看案例视频](https://scy.zuocheng.online/video/video_creation/608098982494341/final_video_file/608099000594565.mp4)
+
 **视频翻译功能**：轻松实现多语言字幕和配音！操作简单，一键翻译
 
 1. **上传视频：** 将你需要翻译的视频上传至【速创云AI】平台。

@@ -55,4 +55,4 @@
 
 如果您对【速创云AI】还有更多好奇，不妨扫描下方二维码，开启一段全新的体验之旅吧！
 
-<img src="README/微信图片_20241109203731.jpg"  width="300" height="550" /><img src="README/zzz.jpg"  width="300" height="550" /><img src="README/me.jpg"  width="300" height="550" />
+<img src="README/zzz.jpg"  width="300" height="550" /><img src="README/me.jpg"  width="300" height="550" />

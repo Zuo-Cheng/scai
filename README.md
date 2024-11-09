@@ -28,7 +28,8 @@
 
 **翻译模式：** 你可以选择仅翻译字幕，也可以选择翻译字幕+语音，满足你的不同需求。点击“开始翻译”，AI将自动为你完成视频翻译
 
-[视频链接](https://scy.zuocheng.online/video/video_translation/606055213678725/final_video_file/606055242109061.mp4)
+[点击查看视频翻译案例1](https://gitee.com/CoderZuoCheng/suchuangyun-ai/blob/master/README/111.mp4)
+[点击查看视频翻译案例2](https://gitee.com/CoderZuoCheng/suchuangyun-ai/blob/master/README/222.mp4)
 
 **智能绘画功能：**为你开启创意之门，轻松生成精美画作！
 
